@@ -1,0 +1,1 @@
+{"builds":[{"src":"api/index.py","use":"@vercel/python"}],"routes":[{"dest":"/api/index.py","src":"/(.*)"}]}
